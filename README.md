@@ -2,7 +2,7 @@
 
  Created following dortania‘s tutorial https://dortania.github.io/OpenCore-Install-Guide/
  
- Can boot in big sur 12.1. 
+ Can boot in Monterey. 
 
  Wifi card replace to dw1560
  
